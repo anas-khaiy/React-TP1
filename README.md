@@ -4,6 +4,7 @@
 
 <img width="1162" height="434" alt="Screenshot 2025-11-08 at 6 37 39 PM" src="https://github.com/user-attachments/assets/afcb0d49-9f88-4670-bb20-bce159ceef9e" />
 
+<img width="2730" height="696" alt="image" src="https://github.com/user-attachments/assets/7e405da0-381e-43d1-b32f-da3cdb9e28da" />
 
 
 # Getting Started with Create React App
